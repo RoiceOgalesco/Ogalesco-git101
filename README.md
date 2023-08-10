@@ -1,2 +1,2 @@
 # Ogalesco-git101
-"This is my first commitss"
+"This is my first commit"
